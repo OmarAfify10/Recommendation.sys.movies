@@ -9,4 +9,5 @@ To run thie Jupyter Notebook ,you need  to go to the binder link .Open the Noteb
 
 # Results 
 We made a function which take the name of the movie and return back a list of Movies recommendations for the user .
+get_recommendations('The Godfather', cosine_sim2) , Then The user gets Movies Recommendations.
 
